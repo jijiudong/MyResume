@@ -3,7 +3,7 @@ description of my res
 
 
 
-![jj](https://github.com/jijiudong/MyResume/image/jj.jpg)
+(https://github.com/jijiudong/MyResume/image/jj.jpg)
 
 
 
